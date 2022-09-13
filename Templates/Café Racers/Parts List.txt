@@ -2,13 +2,28 @@
  | __| _ __ _ _ __  ___ 
  | _| '_/ _` | '  \/ -_)
  |_||_| \__,_|_|_|_\___|
+// Frame Parts
+
 // Frame
+
+// Mounts
+
+// Rear Wheel Box Kick Stand
+// Rear Wheel Fork Kick Stand
+
+// Handle Bars
+
+  ___              _     ___         _             
+ | _ )_ _ ___ __ _| |__ / __|_  _ __| |_ ___ _ __  
+ | _ \ '_/ -_) _` | / / \__ \ || (_-<  _/ -_) '  \ 
+ |___/_| \___\__,_|_\_\ |___/\_, /__/\__\___|_|_|_|
+ // Break System Parts       |__/
 
  __      ___            _    
  \ \    / / |_  ___ ___| |___
   \ \/\/ /| ' \/ -_) -_) (_-<
    \_/\_/ |_||_\___\___|_/__/
-// Wheels
+// Wheel Parts
 
 // Spokes
 
@@ -25,6 +40,7 @@
  | _|| ' \/ _` | | ' \/ -_)
  |___|_||_\__, |_|_||_\___|
 // Engine |___/
+// Parts
 
 // Heads
 
@@ -36,28 +52,19 @@
 
 // Hoses
 
-// Gas Tanks
+// Gas Tank
 
 // Nuts and Bolts
 
-// Spokes
-
 // Chains
-
-// Handle Bars
-
-// Breaks
-
-// Mounts
-
-// Rear Wheel Box Kick Stand
-// Rear Wheel Fork Kick Stand
 
 // Cables
 
-// Cameras
-
 // Throttle
+
+// Starter
+
+// Crank
 
   ___ _        _       _         _ 
  | __| |___ __| |_ _ _(_)__ __ _| |
@@ -72,3 +79,7 @@
 // Head Light
 
 // Rear Lights
+
+// Front Camera
+
+// Rear Camera
