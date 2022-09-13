@@ -5,19 +5,58 @@
 // Frame Parts
 
 // Frame
+* 
 
 // Mounts
+* 
 
 // Rear Wheel Box Kick Stand
+* 
+
 // Rear Wheel Fork Kick Stand
+* 
 
 // Handle Bars
+* 
+
+   ___      _    _        
+  / __|__ _| |__| |___ ___
+ | (__/ _` | '_ \ / -_|_-<
+  \___\__,_|_.__/_\___/__/
+// Cables
+
+// Break Cables
+* 
+
+// Throttle Cables
+* 
+
+// Speedometer Cables
+* 
+
+// Odometer Cables
+* 
+
+// Camera Cables
+* 
+
+// Head Light Cables
+* 
+
+// Rear Light Cables
+* 
 
   ___              _     ___         _             
  | _ )_ _ ___ __ _| |__ / __|_  _ __| |_ ___ _ __  
  | _ \ '_/ -_) _` | / / \__ \ || (_-<  _/ -_) '  \ 
  |___/_| \___\__,_|_\_\ |___/\_, /__/\__\___|_|_|_|
  // Break System Parts       |__/
+ 
+ // Disc Brakes
+ * 
+ 
+ // Caliper Brakes
+ * 
 
  __      ___            _    
  \ \    / / |_  ___ ___| |___
@@ -26,14 +65,19 @@
 // Wheel Parts
 
 // Spokes
+* 
 
 // RIM
+* 
 
 // HUB
+* 
 
 // Tire
+* 
 
 // Valve
+* 
 
   ___           _          
  | __|_ _  __ _(_)_ _  ___ 
@@ -43,28 +87,40 @@
 // Parts
 
 // Heads
+* 
 
 // Gaskets
+* 
 
 // Pistons
+* 
 
 // Carburetors
+* 
 
 // Hoses
+* 
 
 // Gas Tank
+* 
 
 // Nuts and Bolts
+* 
 
 // Chains
+* 
 
 // Cables
+* 
 
 // Throttle
+* 
 
 // Starter
+* 
 
 // Crank
+* 
 
   ___ _        _       _         _ 
  | __| |___ __| |_ _ _(_)__ __ _| |
@@ -73,13 +129,19 @@
 // Electrical Parts
 
 // Speedometer
+* 
 
 // Odometer
+* 
 
 // Head Light
+* 
 
 // Rear Lights
+* 
 
 // Front Camera
+* 
 
 // Rear Camera
+* 
