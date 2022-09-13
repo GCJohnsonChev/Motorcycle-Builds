@@ -98,7 +98,7 @@
 // Nuts and Bolts
 * 
 
-// Chains
+// Chain
 * 
 
 // Cables
@@ -111,6 +111,12 @@
 * 
 
 // Crank
+* 
+
+// Alternator
+*
+
+// Belt
 * 
 
   ___ _        _       _         _   ___         _             
