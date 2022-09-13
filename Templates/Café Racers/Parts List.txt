@@ -10,49 +10,65 @@
    \_/\_/ |_||_\___\___|_/__/
 // Wheels
 
+// Spokes
+
+// RIM
+
+// HUB
+
+// Tire
+
+// Valve
+
   ___           _          
  | __|_ _  __ _(_)_ _  ___ 
  | _|| ' \/ _` | | ' \/ -_)
  |___|_||_\__, |_|_||_\___|
-//Engine  |___/
+// Engine |___/
 
-Heads
+// Heads
 
-Gaskets
+// Gaskets
 
-Pistons
+// Pistons
 
-Carburetors
+// Carburetors
 
-Hoses
+// Hoses
 
-Gas Tanks
+// Gas Tanks
 
-Nuts and Bolts
+// Nuts and Bolts
 
-Spokes
+// Spokes
 
-Chains
+// Chains
 
-Handle Bars
+// Handle Bars
 
-Breaks
+// Breaks
 
-Mounts
+// Mounts
 
-Rear Wheel Box Kick Stand
-Rear Wheel Fork Kick Stand
+// Rear Wheel Box Kick Stand
+// Rear Wheel Fork Kick Stand
 
-Cables
+// Cables
 
-Headlights
+// Cameras
 
-Rear Lights
+// Throttle
 
-Cameras
+  ___ _        _       _         _ 
+ | __| |___ __| |_ _ _(_)__ __ _| |
+ | _|| / -_) _|  _| '_| / _/ _` | |
+ |___|_\___\__|\__|_| |_\__\__,_|_|
+// Electrical Parts
 
-Odometer
+// Speedometer
 
-Speedometers
+// Odometer
 
-Throttle
+// Head Light
+
+// Rear Lights
